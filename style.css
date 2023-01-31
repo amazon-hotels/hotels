@@ -1,0 +1,13 @@
+body{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: white;
+}
+#check{
+    width: 100%;
+    height: 15%;
+    background-color: rgb(225, 241, 241);
+}
